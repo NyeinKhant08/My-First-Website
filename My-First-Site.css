@@ -1,0 +1,15 @@
+body {
+    background: grey;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    text-shadow: 1px 1px 1px lavenderblush;
+    color: lavender;
+}
+
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: lavenderblush;
+}
